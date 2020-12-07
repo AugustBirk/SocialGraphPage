@@ -2,7 +2,7 @@
 title: Introduction
 feature_text: |
   ## Philosophy and Data Analysis
-  A quick peak into a vast field of though
+  A quick peak into a vast field of thoughts
 feature_image: "https://github.com/Rizwan-Ishaq/SocialGraphPage/blob/master/assets/phil_banner.png?raw=true"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
@@ -11,5 +11,6 @@ We have chosen to dig into the vast world of great thinkers throughout history. 
 
 In addition to that we will look at how, the philosophers have influenced one another throughout time - and whether mutual influence have created anachronical _communities_ in the history of philosophy.
 
-
+---
 feature_image: "https://github.com/Rizwan-Ishaq/SocialGraphPage/blob/master/assets/phil_banner.png?raw=true"
+---
